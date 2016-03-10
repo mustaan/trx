@@ -79,3 +79,4 @@ if ($upd['ok'] == 1) {
     echo $upd['description'];
     exit;
 }
+?>
